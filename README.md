@@ -1,4 +1,4 @@
-My algorithm is in the python folder
+My algorithm is in the python-alog folder under the name algo-python
 # C1GamesStarterKit
 
 Welcome to the C1 Terminal Starter Kit! The repository contains a collection of scripts and 
