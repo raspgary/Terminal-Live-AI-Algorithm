@@ -1,16 +1,12 @@
-My algorithm is in the python-algo folder under the name algo_strategy.py
-# C1GamesStarterKit
-
-Welcome to the C1 Terminal Starter Kit! The repository contains a collection of scripts and 
-language-specific starter algos, to help you start your journey to develop the ultimate algo.
+# Terminal Live AI Algorithm
+This is an algorithm that my team and I built for the Terminal Live AI competition hosted by Correlation One and Citadel. Our algorithm is in the python-algo folder under the name algo_strategy.py. The game is in a tower defense format where there are defensive units and offensive units. The main goal of our algorithm is to first build a defensive infrastructure then start attacking in reactive intervals. If a previous attack did not breach the enemy defenses, then the interval between attacks widens to accumulate more attacking units for larger attacks. There is also a reactive defense algorithm for reacting to enemy attacking units breaching the main defense. Excess resources are used to build a cannon of beacon units to power up attackers. Directions from the website on how to play are in the rest of the README below.
 
 For more details about competitions and the game itself please check out our
 [main site](https://terminal.c1games.com/rules).
 
 ## Manual Play
 
-We recommend you familiarize yourself with the game and its strategic elements, by playing manually,
-before you start your algo. Check out [the playground](https://terminal.c1games.com/playground).
+We recommend you familiarize yourself with the game and its strategic elements, by playing manually. Check out [the playground](https://terminal.c1games.com/playground).
 
 ## Algo Development
 
